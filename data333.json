@@ -1,0 +1,2527 @@
+[
+  {
+    "id": "zh-001",
+    "title": "Spring",
+    "dir": "音视频与流媒体",
+    "tags": [
+      "ANN",
+      "JWT",
+      "Sentry",
+      "WebRTC",
+      "字幕时间轴",
+      "点播",
+      "转码"
+    ],
+    "url": "https://spring.io",
+    "desc": "Java 企业级生态",
+    "pinned": false,
+    "weight": 19,
+    "color": ""
+  },
+  {
+    "id": "zh-002",
+    "title": "Spring Boot",
+    "dir": "编程语言与框架",
+    "tags": [
+      "BFI",
+      "Django",
+      "Python",
+      "Rust",
+      "路线图"
+    ],
+    "url": "https://spring.io/projects/spring-boot",
+    "desc": "快速构建微服务",
+    "pinned": false,
+    "weight": 18,
+    "color": "#ECFDF5"
+  },
+  {
+    "id": "zh-003",
+    "title": "FastAPI",
+    "dir": "云厂商与平台",
+    "tags": [
+      "Vercel",
+      "拉赫玛尼诺夫",
+      "数据库",
+      "腾讯云",
+      "进阶指南",
+      "阿里云"
+    ],
+    "url": "https://fastapi.tiangolo.com",
+    "desc": "现代 Python Web 框架",
+    "pinned": false,
+    "weight": 18,
+    "color": ""
+  },
+  {
+    "id": "zh-004",
+    "title": "Django",
+    "dir": "算法与面试",
+    "tags": [
+      "Netlify",
+      "基础设施即代码",
+      "批量重命名",
+      "系统设计",
+      "速查表",
+      "面试",
+      "题库"
+    ],
+    "url": "https://www.djangoproject.com/",
+    "desc": "全栈后台框架",
+    "pinned": false,
+    "weight": 9,
+    "color": "#EFF6FF"
+  },
+  {
+    "id": "zh-005",
+    "title": "Flask",
+    "dir": "后端与微服务",
+    "tags": [
+      "分布式",
+      "可视化",
+      "后端",
+      "接口",
+      "进阶指南",
+      "限流"
+    ],
+    "url": "https://flask.palletsprojects.com",
+    "desc": "轻量 Python 框架",
+    "pinned": false,
+    "weight": 19,
+    "color": "#ECFDF5"
+  },
+  {
+    "id": "zh-006",
+    "title": "Go",
+    "dir": "可观测性与监控",
+    "tags": [
+      "Cloudflare",
+      "OpenTelemetry",
+      "Sentry",
+      "Spring",
+      "指标",
+      "消息队列",
+      "转码"
+    ],
+    "url": "https://go.dev",
+    "desc": "云原生友好语言",
+    "pinned": false,
+    "weight": 13,
+    "color": ""
+  },
+  {
+    "id": "zh-007",
+    "title": "Gin",
+    "dir": "数据库与存储",
+    "tags": [
+      "CI",
+      "DuckDB",
+      "MySQL",
+      "Redis",
+      "剪辑",
+      "效率工具",
+      "示例项目"
+    ],
+    "url": "https://gin-gonic.com",
+    "desc": "Go Web 框架",
+    "pinned": false,
+    "weight": 3,
+    "color": "#FFF7ED"
+  },
+  {
+    "id": "zh-008",
+    "title": "Rust",
+    "dir": "数据库与存储",
+    "tags": [
+      "ClickHouse",
+      "MySQL",
+      "PostgreSQL",
+      "效率工具",
+      "音乐"
+    ],
+    "url": "https://www.rust-lang.org/",
+    "desc": "安全高性能语言",
+    "pinned": false,
+    "weight": 4,
+    "color": "#EFF6FF"
+  },
+  {
+    "id": "zh-009",
+    "title": "Tokio",
+    "dir": "学习与社区",
+    "tags": [
+      "IMDb",
+      "PostgreSQL",
+      "文档",
+      "点播",
+      "精选",
+      "系统设计",
+      "链路追踪"
+    ],
+    "url": "https://tokio.rs/",
+    "desc": "Rust 异步运行时",
+    "pinned": false,
+    "weight": 13,
+    "color": "#EFF6FF"
+  },
+  {
+    "id": "zh-010",
+    "title": "gRPC",
+    "dir": "云厂商与平台",
+    "tags": [
+      "GCP",
+      "Last.fm",
+      "Netlify",
+      "下载",
+      "云平台",
+      "协奏曲"
+    ],
+    "url": "https://grpc.io/",
+    "desc": "高性能 RPC",
+    "pinned": false,
+    "weight": 10,
+    "color": "#F5F3FF"
+  },
+  {
+    "id": "zh-011",
+    "title": "GraphQL",
+    "dir": "音视频与流媒体",
+    "tags": [
+      "FFmpeg",
+      "Flink",
+      "HLS",
+      "环境",
+      "电影",
+      "直播",
+      "空间音效"
+    ],
+    "url": "https://graphql.org/",
+    "desc": "查询语言 API",
+    "pinned": false,
+    "weight": 7,
+    "color": "#ECFDF5"
+  },
+  {
+    "id": "zh-012",
+    "title": "OpenAPI",
+    "dir": "搜索与向量",
+    "tags": [
+      "Elasticsearch",
+      "OpenSearch",
+      "RTMP",
+      "可视化",
+      "指标",
+      "相似度检索",
+      "配音"
+    ],
+    "url": "https://www.openapis.org/",
+    "desc": "API 规范",
+    "pinned": false,
+    "weight": 3,
+    "color": "#ECFDF5"
+  },
+  {
+    "id": "zh-013",
+    "title": "PostgreSQL",
+    "dir": "搜索与向量",
+    "tags": [
+      "AWS",
+      "DAST",
+      "Hive",
+      "Pinecone",
+      "乐评",
+      "搜索",
+      "相似度检索"
+    ],
+    "url": "https://www.postgresql.org/",
+    "desc": "开源关系数据库",
+    "pinned": false,
+    "weight": 19,
+    "color": "#F5F3FF"
+  },
+  {
+    "id": "zh-014",
+    "title": "MySQL",
+    "dir": "数据库与存储",
+    "tags": [
+      "ClickHouse",
+      "Redis",
+      "tmux",
+      "分镜",
+      "教程入门",
+      "数据库",
+      "系统设计"
+    ],
+    "url": "https://www.mysql.com/",
+    "desc": "关系数据库",
+    "pinned": false,
+    "weight": 6,
+    "color": "#F5F3FF"
+  },
+  {
+    "id": "zh-015",
+    "title": "Redis",
+    "dir": "可观测性与监控",
+    "tags": [
+      "B站电影",
+      "DevOps",
+      "OpenSearch",
+      "Sentry",
+      "可观测性",
+      "听歌统计",
+      "指标"
+    ],
+    "url": "https://redis.io/",
+    "desc": "内存数据库",
+    "pinned": false,
+    "weight": 12,
+    "color": "#FFF7ED"
+  },
+  {
+    "id": "zh-016",
+    "title": "MongoDB",
+    "dir": "音视频与流媒体",
+    "tags": [
+      "ClickHouse",
+      "RTMP",
+      "WebRTC",
+      "压缩",
+      "向量数据库",
+      "字幕"
+    ],
+    "url": "https://www.mongodb.com/",
+    "desc": "文档数据库",
+    "pinned": false,
+    "weight": 17,
+    "color": "#EFF6FF"
+  },
+  {
+    "id": "zh-017",
+    "title": "ClickHouse",
+    "dir": "电影与剧集",
+    "tags": [
+      "Kotlin",
+      "剧作",
+      "大提琴",
+      "摄影",
+      "数据仓库",
+      "网盘",
+      "美剧"
+    ],
+    "url": "https://clickhouse.com/",
+    "desc": "列式数据库",
+    "pinned": false,
+    "weight": 14,
+    "color": "#F5F3FF"
+  },
+  {
+    "id": "zh-018",
+    "title": "DuckDB",
+    "dir": "编程语言与框架",
+    "tags": [
+      "AWS",
+      "Flask",
+      "SpringBoot",
+      "TypeScript",
+      "后端",
+      "无损",
+      "片单"
+    ],
+    "url": "https://duckdb.org/",
+    "desc": "内嵌分析引擎",
+    "pinned": false,
+    "weight": 1,
+    "color": ""
+  },
+  {
+    "id": "zh-019",
+    "title": "Milvus",
+    "dir": "效率与知识库",
+    "tags": [
+      "Django",
+      "Kubernetes",
+      "命令行",
+      "奏鸣曲",
+      "思维导图",
+      "效率工具"
+    ],
+    "url": "https://milvus.io",
+    "desc": "向量数据库",
+    "pinned": false,
+    "weight": 17,
+    "color": "#EFF6FF"
+  },
+  {
+    "id": "zh-020",
+    "title": "Weaviate",
+    "dir": "架构与设计",
+    "tags": [
+      "CQRS",
+      "Shell",
+      "可用性",
+      "容错",
+      "设计模式"
+    ],
+    "url": "https://weaviate.io",
+    "desc": "向量数据库",
+    "pinned": true,
+    "weight": 15,
+    "color": "#FDF2F8"
+  },
+  {
+    "id": "zh-021",
+    "title": "Elasticsearch",
+    "dir": "可观测性与监控",
+    "tags": [
+      "OpenTelemetry",
+      "可视化",
+      "指标",
+      "日志",
+      "电子",
+      "相似度检索",
+      "速查表"
+    ],
+    "url": "https://www.elastic.co/elasticsearch",
+    "desc": "搜索引擎",
+    "pinned": false,
+    "weight": 8,
+    "color": "#F5F3FF"
+  },
+  {
+    "id": "zh-022",
+    "title": "OpenSearch",
+    "dir": "数据库与存储",
+    "tags": [
+      "DDoS",
+      "DuckDB",
+      "ETL",
+      "JWT",
+      "MongoDB",
+      "时序数据库",
+      "艺术歌曲"
+    ],
+    "url": "https://opensearch.org",
+    "desc": "开源搜索",
+    "pinned": true,
+    "weight": 3,
+    "color": "#EFF6FF"
+  },
+  {
+    "id": "zh-023",
+    "title": "Apache Kafka",
+    "dir": "古典音乐｜作曲家",
+    "tags": [
+      "Azure",
+      "ELT",
+      "古典音乐",
+      "拉威尔",
+      "贝多芬"
+    ],
+    "url": "https://kafka.apache.org/",
+    "desc": "消息流平台",
+    "pinned": true,
+    "weight": 11,
+    "color": "#ECFDF5"
+  },
+  {
+    "id": "zh-024",
+    "title": "Apache Flink",
+    "dir": "搜索与向量",
+    "tags": [
+      "Airflow",
+      "Elasticsearch",
+      "性能优化",
+      "搜索",
+      "相似度检索"
+    ],
+    "url": "https://flink.apache.org",
+    "desc": "流批一体",
+    "pinned": false,
+    "weight": 15,
+    "color": "#ECFDF5"
+  },
+  {
+    "id": "zh-025",
+    "title": "Apache Spark",
+    "dir": "编程语言与框架",
+    "tags": [
+      "FastAPI",
+      "GraphQL",
+      "Java",
+      "Rust",
+      "数据平台"
+    ],
+    "url": "https://spark.apache.org",
+    "desc": "大数据计算",
+    "pinned": false,
+    "weight": 6,
+    "color": "#EFF6FF"
+  },
+  {
+    "id": "zh-026",
+    "title": "Airflow",
+    "dir": "编程语言与框架",
+    "tags": [
+      "Gin",
+      "Go",
+      "Node.js",
+      "容器",
+      "解码器"
+    ],
+    "url": "https://airflow.apache.org/",
+    "desc": "工作流编排",
+    "pinned": false,
+    "weight": 6,
+    "color": "#FEF3C7"
+  },
+  {
+    "id": "zh-027",
+    "title": "Dagster",
+    "dir": "数据与大数据",
+    "tags": [
+      "Flink",
+      "GitLab CI",
+      "Hadoop",
+      "Hive",
+      "交响乐",
+      "开源项目",
+      "日剧"
+    ],
+    "url": "https://dagster.io/",
+    "desc": "数据编排",
+    "pinned": false,
+    "weight": 20,
+    "color": "#ECFDF5"
+  },
+  {
+    "id": "zh-028",
+    "title": "dbt",
+    "dir": "效率与知识库",
+    "tags": [
+      "GCP",
+      "乐评",
+      "命令行",
+      "浏览器插件",
+      "知识库"
+    ],
+    "url": "https://www.getdbt.com/",
+    "desc": "数据建模",
+    "pinned": false,
+    "weight": 4,
+    "color": "#FEF3C7"
+  },
+  {
+    "id": "zh-029",
+    "title": "Kubernetes",
+    "dir": "可观测性与监控",
+    "tags": [
+      "HiFi",
+      "IMDb",
+      "OpenTelemetry",
+      "Prometheus",
+      "Spark",
+      "莫扎特",
+      "链路追踪"
+    ],
+    "url": "https://kubernetes.io",
+    "desc": "容器编排",
+    "pinned": false,
+    "weight": 3,
+    "color": "#EFF6FF"
+  },
+  {
+    "id": "zh-030",
+    "title": "Helm",
+    "dir": "接口与协议",
+    "tags": [
+      "Protobuf",
+      "REST",
+      "Weaviate",
+      "YAML",
+      "可用性",
+      "性能优化"
+    ],
+    "url": "https://helm.sh",
+    "desc": "K8s 包管理",
+    "pinned": false,
+    "weight": 9,
+    "color": "#F5F3FF"
+  },
+  {
+    "id": "zh-031",
+    "title": "Istio",
+    "dir": "数据与大数据",
+    "tags": [
+      "Delta Lake",
+      "Hudi",
+      "加密",
+      "数据平台",
+      "进阶指南"
+    ],
+    "url": "https://istio.io",
+    "desc": "Service Mesh",
+    "pinned": false,
+    "weight": 10,
+    "color": "#ECFDF5"
+  },
+  {
+    "id": "zh-032",
+    "title": "Prometheus",
+    "dir": "安全与隐私",
+    "tags": [
+      "Hadoop",
+      "Hive",
+      "Jaeger",
+      "SSO",
+      "WAF",
+      "密钥管理",
+      "思维导图"
+    ],
+    "url": "https://prometheus.io",
+    "desc": "指标监控",
+    "pinned": false,
+    "weight": 5,
+    "color": ""
+  },
+  {
+    "id": "zh-033",
+    "title": "Grafana",
+    "dir": "学习与社区",
+    "tags": [
+      "指标",
+      "播客",
+      "文档",
+      "论文",
+      "速查表",
+      "零信任",
+      "高解析"
+    ],
+    "url": "https://grafana.com",
+    "desc": "可视化与仪表盘",
+    "pinned": false,
+    "weight": 5,
+    "color": "#FFF7ED"
+  },
+  {
+    "id": "zh-034",
+    "title": "OpenTelemetry",
+    "dir": "可观测性与监控",
+    "tags": [
+      "OpenTelemetry",
+      "Prometheus",
+      "REST",
+      "Tempo",
+      "日志"
+    ],
+    "url": "https://opentelemetry.io",
+    "desc": "可观测性标准",
+    "pinned": false,
+    "weight": 4,
+    "color": "#F5F3FF"
+  },
+  {
+    "id": "zh-035",
+    "title": "Sentry",
+    "dir": "编程语言与框架",
+    "tags": [
+      "DASH",
+      "Delta Lake",
+      "Gin",
+      "Go",
+      "SpringBoot",
+      "剧作",
+      "科幻片"
+    ],
+    "url": "https://sentry.io",
+    "desc": "应用错误监控",
+    "pinned": false,
+    "weight": 9,
+    "color": "#ECFDF5"
+  },
+  {
+    "id": "zh-036",
+    "title": "Vault",
+    "dir": "工具与下载",
+    "tags": [
+      "Cloudflare",
+      "HDR",
+      "下载",
+      "压缩",
+      "缓存穿透",
+      "网盘"
+    ],
+    "url": "https://www.vaultproject.io/",
+    "desc": "密钥与机密管理",
+    "pinned": false,
+    "weight": 17,
+    "color": "#FEF3C7"
+  },
+  {
+    "id": "zh-037",
+    "title": "OWASP",
+    "dir": "电影与剧集",
+    "tags": [
+      "基础设施即代码",
+      "日剧",
+      "纪录片",
+      "豆瓣电影",
+      "速查表"
+    ],
+    "url": "https://owasp.org/",
+    "desc": "Web 安全实践",
+    "pinned": true,
+    "weight": 8,
+    "color": "#F5F3FF"
+  },
+  {
+    "id": "zh-038",
+    "title": "Nginx",
+    "dir": "后端与微服务",
+    "tags": [
+      "Python",
+      "分布式",
+      "熔断",
+      "腾讯云",
+      "高并发"
+    ],
+    "url": "https://nginx.org/",
+    "desc": "高性能服务器",
+    "pinned": false,
+    "weight": 9,
+    "color": "#EFF6FF"
+  },
+  {
+    "id": "zh-039",
+    "title": "Envoy",
+    "dir": "数据与大数据",
+    "tags": [
+      "ELT",
+      "GitLab CI",
+      "Kafka",
+      "下载",
+      "批量重命名",
+      "湖仓一体"
+    ],
+    "url": "https://www.envoyproxy.io/",
+    "desc": "边车/代理",
+    "pinned": false,
+    "weight": 13,
+    "color": "#F0F9FF"
+  },
+  {
+    "id": "zh-040",
+    "title": "GitHub",
+    "dir": "编程语言与框架",
+    "tags": [
+      "Django",
+      "Kafka",
+      "Rust",
+      "TypeScript",
+      "开源项目",
+      "摇滚",
+      "面试"
+    ],
+    "url": "https://github.com",
+    "desc": "代码托管",
+    "pinned": false,
+    "weight": 11,
+    "color": "#ECFDF5"
+  },
+  {
+    "id": "zh-041",
+    "title": "GitLab",
+    "dir": "数据与大数据",
+    "tags": [
+      "Delta Lake",
+      "Flink",
+      "性能优化",
+      "湖仓一体",
+      "莫扎特",
+      "配音"
+    ],
+    "url": "https://gitlab.com",
+    "desc": "DevOps 平台",
+    "pinned": false,
+    "weight": 13,
+    "color": "#ECFDF5"
+  },
+  {
+    "id": "zh-042",
+    "title": "Docker",
+    "dir": "效率与知识库",
+    "tags": [
+      "Dolby Vision",
+      "WebRTC",
+      "命令行",
+      "思维导图",
+      "终端",
+      "艺术歌曲",
+      "调色"
+    ],
+    "url": "https://www.docker.com/",
+    "desc": "容器",
+    "pinned": false,
+    "weight": 6,
+    "color": ""
+  },
+  {
+    "id": "zh-043",
+    "title": "Terraform",
+    "dir": "安全与隐私",
+    "tags": [
+      "BFI",
+      "Go",
+      "OIDC",
+      "WAF",
+      "安全"
+    ],
+    "url": "https://www.terraform.io/",
+    "desc": "基础设施即代码",
+    "pinned": false,
+    "weight": 7,
+    "color": "#F0F9FF"
+  },
+  {
+    "id": "zh-044",
+    "title": "Ansible",
+    "dir": "安全与隐私",
+    "tags": [
+      "Qobuz",
+      "SSO",
+      "WAF",
+      "日剧",
+      "零信任"
+    ],
+    "url": "https://www.ansible.com/",
+    "desc": "自动化",
+    "pinned": false,
+    "weight": 4,
+    "color": "#FFF7ED"
+  },
+  {
+    "id": "zh-045",
+    "title": "AWS",
+    "dir": "数据库与存储",
+    "tags": [
+      "DuckDB",
+      "MySQL",
+      "PostgreSQL",
+      "烂番茄",
+      "翻字幕"
+    ],
+    "url": "https://aws.amazon.com/",
+    "desc": "云平台",
+    "pinned": false,
+    "weight": 17,
+    "color": "#FEF3C7"
+  },
+  {
+    "id": "zh-046",
+    "title": "Azure",
+    "dir": "数据与大数据",
+    "tags": [
+      "Delta Lake",
+      "Hadoop",
+      "Iceberg",
+      "听歌统计",
+      "备份",
+      "字幕",
+      "限流"
+    ],
+    "url": "https://azure.microsoft.com/",
+    "desc": "云平台",
+    "pinned": false,
+    "weight": 8,
+    "color": "#FFF7ED"
+  },
+  {
+    "id": "zh-047",
+    "title": "GCP",
+    "dir": "数据库与存储",
+    "tags": [
+      "ClickHouse",
+      "Go",
+      "MongoDB",
+      "Prometheus",
+      "勃拉姆斯",
+      "时序数据库",
+      "豆瓣电影"
+    ],
+    "url": "https://cloud.google.com/",
+    "desc": "云平台",
+    "pinned": false,
+    "weight": 12,
+    "color": "#FFF7ED"
+  },
+  {
+    "id": "zh-048",
+    "title": "阿里云",
+    "dir": "后端与微服务",
+    "tags": [
+      "Rust",
+      "Service Mesh",
+      "后端",
+      "微服务",
+      "熔断",
+      "边缘计算"
+    ],
+    "url": "https://www.aliyun.com/",
+    "desc": "云平台",
+    "pinned": false,
+    "weight": 9,
+    "color": "#FEF3C7"
+  },
+  {
+    "id": "zh-049",
+    "title": "Cloudflare",
+    "dir": "安全与隐私",
+    "tags": [
+      "JWT",
+      "SSO",
+      "Weaviate",
+      "压缩",
+      "教程入门",
+      "精选",
+      "零信任"
+    ],
+    "url": "https://www.cloudflare.com/",
+    "desc": "边缘与安全",
+    "pinned": false,
+    "weight": 19,
+    "color": "#EFF6FF"
+  },
+  {
+    "id": "zh-050",
+    "title": "Vercel",
+    "dir": "架构与设计",
+    "tags": [
+      "CQRS",
+      "Cloudflare",
+      "SRT",
+      "容错",
+      "设计模式",
+      "降级"
+    ],
+    "url": "https://vercel.com",
+    "desc": "前端云",
+    "pinned": false,
+    "weight": 10,
+    "color": "#FDF2F8"
+  },
+  {
+    "id": "zh-051",
+    "title": "Netlify",
+    "dir": "架构与设计",
+    "tags": [
+      "CQRS",
+      "Roon",
+      "事件溯源",
+      "容器",
+      "架构设计",
+      "湖仓一体"
+    ],
+    "url": "https://www.netlify.com",
+    "desc": "静态站",
+    "pinned": false,
+    "weight": 2,
+    "color": "#FEF3C7"
+  },
+  {
+    "id": "zh-052",
+    "title": "MDN",
+    "dir": "工具与下载",
+    "tags": [
+      "Dagster",
+      "Hadoop",
+      "Node.js",
+      "PDF工具",
+      "备份",
+      "点播",
+      "网盘"
+    ],
+    "url": "https://developer.mozilla.org",
+    "desc": "Web 文档",
+    "pinned": false,
+    "weight": 10,
+    "color": ""
+  },
+  {
+    "id": "zh-053",
+    "title": "Stack Overflow",
+    "dir": "编程语言与框架",
+    "tags": [
+      "Atmos",
+      "Python",
+      "Rust",
+      "SSO",
+      "SpringBoot",
+      "乐谱",
+      "指标"
+    ],
+    "url": "https://stackoverflow.com",
+    "desc": "开发者问答",
+    "pinned": false,
+    "weight": 6,
+    "color": ""
+  },
+  {
+    "id": "zh-054",
+    "title": "LeetCode",
+    "dir": "可观测性与监控",
+    "tags": [
+      "OpenTelemetry",
+      "Sentry",
+      "Spring",
+      "加密",
+      "指标",
+      "钢琴"
+    ],
+    "url": "https://leetcode.com",
+    "desc": "算法题库",
+    "pinned": false,
+    "weight": 0,
+    "color": "#FEF3C7"
+  },
+  {
+    "id": "zh-055",
+    "title": "System Design Primer",
+    "dir": "后端与微服务",
+    "tags": [
+      "HDR",
+      "去噪",
+      "大提琴",
+      "微服务",
+      "熔断",
+      "缓存",
+      "音乐"
+    ],
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "desc": "系统设计知识库",
+    "pinned": false,
+    "weight": 8,
+    "color": "#EFF6FF"
+  },
+  {
+    "id": "zh-056",
+    "title": "Awesome",
+    "dir": "编程语言与框架",
+    "tags": [
+      "Go",
+      "Node.js",
+      "Python",
+      "SAST",
+      "下载",
+      "配乐"
+    ],
+    "url": "https://awesome.re/",
+    "desc": "精选资源索引",
+    "pinned": true,
+    "weight": 5,
+    "color": "#FDF2F8"
+  },
+  {
+    "id": "zh-057",
+    "title": "ArXiv",
+    "dir": "云原生与容器",
+    "tags": [
+      "Docker",
+      "Istio",
+      "Service Mesh",
+      "媒体库",
+      "容器",
+      "影评",
+      "拉赫玛尼诺夫"
+    ],
+    "url": "https://arxiv.org",
+    "desc": "论文预印本",
+    "pinned": true,
+    "weight": 15,
+    "color": ""
+  },
+  {
+    "id": "zh-058",
+    "title": "Coursera",
+    "dir": "可观测性与监控",
+    "tags": [
+      "Azure",
+      "Sentry",
+      "可观测性",
+      "效率工具",
+      "日志"
+    ],
+    "url": "https://www.coursera.org",
+    "desc": "在线课程",
+    "pinned": false,
+    "weight": 2,
+    "color": "#ECFDF5"
+  },
+  {
+    "id": "zh-059",
+    "title": "edX",
+    "dir": "安全与隐私",
+    "tags": [
+      "OAuth2",
+      "SSO",
+      "摄影",
+      "短片",
+      "零信任"
+    ],
+    "url": "https://www.edx.org",
+    "desc": "在线课程",
+    "pinned": false,
+    "weight": 20,
+    "color": "#F0F9FF"
+  },
+  {
+    "id": "zh-060",
+    "title": "Regexr",
+    "dir": "后端与微服务",
+    "tags": [
+      "DDD",
+      "Flask",
+      "Spark",
+      "分布式",
+      "小提琴",
+      "微服务",
+      "限流"
+    ],
+    "url": "https://regexr.com",
+    "desc": "正则测试",
+    "pinned": false,
+    "weight": 9,
+    "color": ""
+  },
+  {
+    "id": "zh-061",
+    "title": "HTTPie",
+    "dir": "云厂商与平台",
+    "tags": [
+      "Go",
+      "Vercel",
+      "云平台",
+      "剧情片",
+      "阿里云"
+    ],
+    "url": "https://httpie.io",
+    "desc": "HTTP 客户端",
+    "pinned": false,
+    "weight": 2,
+    "color": "#ECFDF5"
+  },
+  {
+    "id": "zh-062",
+    "title": "curl",
+    "dir": "工具与下载",
+    "tags": [
+      "PDF工具",
+      "dbt",
+      "剧情片",
+      "备份",
+      "字幕下载",
+      "批量重命名"
+    ],
+    "url": "https://curl.se",
+    "desc": "命令行 HTTP",
+    "pinned": false,
+    "weight": 7,
+    "color": ""
+  },
+  {
+    "id": "zh-063",
+    "title": "Spotify",
+    "dir": "数据库与存储",
+    "tags": [
+      "MySQL",
+      "OpenAPI",
+      "Redis",
+      "微服务",
+      "时序数据库",
+      "肖邦"
+    ],
+    "url": "https://open.spotify.com",
+    "desc": "流媒体音乐",
+    "pinned": false,
+    "weight": 9,
+    "color": "#ECFDF5"
+  },
+  {
+    "id": "zh-064",
+    "title": "Apple Music",
+    "dir": "接口与协议",
+    "tags": [
+      "OpenAPI",
+      "REST",
+      "WAF",
+      "YAML",
+      "相似度检索",
+      "解压"
+    ],
+    "url": "https://music.apple.com",
+    "desc": "苹果音乐",
+    "pinned": false,
+    "weight": 13,
+    "color": "#FEF3C7"
+  },
+  {
+    "id": "zh-065",
+    "title": "TIDAL",
+    "dir": "云原生与容器",
+    "tags": [
+      "Docker",
+      "GCP",
+      "GitOps",
+      "Python",
+      "Service Mesh",
+      "题库",
+      "高并发"
+    ],
+    "url": "https://tidal.com",
+    "desc": "HiFi 流媒体",
+    "pinned": false,
+    "weight": 8,
+    "color": "#ECFDF5"
+  },
+  {
+    "id": "zh-066",
+    "title": "Qobuz",
+    "dir": "接口与协议",
+    "tags": [
+      "BI",
+      "JSON",
+      "OpenAPI",
+      "YAML",
+      "思维导图",
+      "耳机"
+    ],
+    "url": "https://www.qobuz.com",
+    "desc": "Hi-Res 音乐",
+    "pinned": false,
+    "weight": 20,
+    "color": "#FDF2F8"
+  },
+  {
+    "id": "zh-067",
+    "title": "网易云音乐",
+    "dir": "学习与社区",
+    "tags": [
+      "Milvus",
+      "MongoDB",
+      "教程",
+      "社区",
+      "论文",
+      "速查表"
+    ],
+    "url": "https://music.163.com",
+    "desc": "国内流媒体",
+    "pinned": false,
+    "weight": 7,
+    "color": "#F0F9FF"
+  },
+  {
+    "id": "zh-068",
+    "title": "QQ 音乐",
+    "dir": "工具与下载",
+    "tags": [
+      "GitOps",
+      "下载",
+      "媒体库",
+      "录屏",
+      "爵士",
+      "莫扎特",
+      "解压"
+    ],
+    "url": "https://y.qq.com",
+    "desc": "国内音乐",
+    "pinned": false,
+    "weight": 10,
+    "color": "#ECFDF5"
+  },
+  {
+    "id": "zh-069",
+    "title": "Bandcamp",
+    "dir": "架构与设计",
+    "tags": [
+      "CQRS",
+      "YAML",
+      "可用性",
+      "基础设施即代码",
+      "缓存穿透",
+      "论文",
+      "设计模式"
+    ],
+    "url": "https://bandcamp.com",
+    "desc": "独立音乐",
+    "pinned": true,
+    "weight": 6,
+    "color": "#EFF6FF"
+  },
+  {
+    "id": "zh-070",
+    "title": "SoundCloud",
+    "dir": "古典音乐｜作曲家",
+    "tags": [
+      "奏鸣曲",
+      "开源项目",
+      "相似度检索",
+      "贝多芬",
+      "钢琴"
+    ],
+    "url": "https://soundcloud.com",
+    "desc": "原创/播客",
+    "pinned": false,
+    "weight": 7,
+    "color": "#F5F3FF"
+  },
+  {
+    "id": "zh-071",
+    "title": "Last.fm",
+    "dir": "安全与隐私",
+    "tags": [
+      "B站电影",
+      "Kubernetes",
+      "OIDC",
+      "Tempo",
+      "剧情片",
+      "安全",
+      "鉴权"
+    ],
+    "url": "https://www.last.fm",
+    "desc": "听歌统计",
+    "pinned": false,
+    "weight": 16,
+    "color": "#ECFDF5"
+  },
+  {
+    "id": "zh-072",
+    "title": "Roon",
+    "dir": "安全与隐私",
+    "tags": [
+      "Jaeger",
+      "OAuth2",
+      "OIDC",
+      "Terraform",
+      "加密",
+      "大提琴"
+    ],
+    "url": "https://roonlabs.com",
+    "desc": "本地音频管理",
+    "pinned": false,
+    "weight": 8,
+    "color": "#FDF2F8"
+  },
+  {
+    "id": "zh-073",
+    "title": "Foobar2000",
+    "dir": "音视频与流媒体",
+    "tags": [
+      "DASH",
+      "FFmpeg",
+      "GraphQL",
+      "WebRTC",
+      "空间音效",
+      "音频增强"
+    ],
+    "url": "https://www.foobar2000.org/",
+    "desc": "本地播放",
+    "pinned": false,
+    "weight": 0,
+    "color": "#F5F3FF"
+  },
+  {
+    "id": "zh-074",
+    "title": "Head-Fi",
+    "dir": "算法与面试",
+    "tags": [
+      "刷题",
+      "教程入门",
+      "系统设计",
+      "翻译",
+      "题库",
+      "高解析"
+    ],
+    "url": "https://www.head-fi.org/",
+    "desc": "耳机论坛",
+    "pinned": false,
+    "weight": 4,
+    "color": "#FDF2F8"
+  },
+  {
+    "id": "zh-075",
+    "title": "IMSLP",
+    "dir": "编程语言与框架",
+    "tags": [
+      "AWS",
+      "Gin",
+      "Python",
+      "TypeScript",
+      "接口",
+      "空间音效"
+    ],
+    "url": "https://imslp.org",
+    "desc": "古典乐谱库",
+    "pinned": false,
+    "weight": 8,
+    "color": "#ECFDF5"
+  },
+  {
+    "id": "zh-076",
+    "title": "Gramophone",
+    "dir": "接口与协议",
+    "tags": [
+      "ANN",
+      "OpenAPI",
+      "Protobuf",
+      "Python",
+      "RPC",
+      "小提琴"
+    ],
+    "url": "https://www.gramophone.co.uk/",
+    "desc": "古典乐杂志",
+    "pinned": false,
+    "weight": 19,
+    "color": "#FEF3C7"
+  },
+  {
+    "id": "zh-077",
+    "title": "BBC Music Magazine",
+    "dir": "可观测性与监控",
+    "tags": [
+      "Prometheus",
+      "分布式",
+      "均衡器",
+      "指标",
+      "日志"
+    ],
+    "url": "https://www.classical-music.com/",
+    "desc": "古典乐杂志",
+    "pinned": false,
+    "weight": 2,
+    "color": ""
+  },
+  {
+    "id": "zh-078",
+    "title": "Chopin Institute",
+    "dir": "古典音乐｜作曲家",
+    "tags": [
+      "Kotlin",
+      "Terraform",
+      "交响乐",
+      "室内乐",
+      "影单",
+      "德彪西"
+    ],
+    "url": "https://en.chopin.nifc.pl/",
+    "desc": "肖邦研究院",
+    "pinned": true,
+    "weight": 4,
+    "color": "#FEF3C7"
+  },
+  {
+    "id": "zh-079",
+    "title": "Debussy (Wiki)",
+    "dir": "数据与大数据",
+    "tags": [
+      "ELT",
+      "Go",
+      "Python",
+      "刷题",
+      "数据平台",
+      "湖仓一体",
+      "社区"
+    ],
+    "url": "https://zh.wikipedia.org/wiki/%E5%BE%B7%E5%BD%AA%E8%A5%BF",
+    "desc": "作曲家条目",
+    "pinned": false,
+    "weight": 12,
+    "color": "#FDF2F8"
+  },
+  {
+    "id": "zh-080",
+    "title": "Ravel (Wiki)",
+    "dir": "学习与社区",
+    "tags": [
+      "Terraform",
+      "分布式",
+      "原声",
+      "教程",
+      "文档",
+      "系统设计",
+      "路线图"
+    ],
+    "url": "https://zh.wikipedia.org/wiki/%E6%8B%89%E5%A8%81%E5%B0%94",
+    "desc": "作曲家条目",
+    "pinned": true,
+    "weight": 1,
+    "color": "#EFF6FF"
+  },
+  {
+    "id": "zh-081",
+    "title": "IMDb",
+    "dir": "安全与隐私",
+    "tags": [
+      "OAuth2",
+      "OIDC",
+      "片单",
+      "直播",
+      "鉴权"
+    ],
+    "url": "https://www.imdb.com",
+    "desc": "电影数据库",
+    "pinned": false,
+    "weight": 15,
+    "color": "#FDF2F8"
+  },
+  {
+    "id": "zh-082",
+    "title": "豆瓣电影",
+    "dir": "架构与设计",
+    "tags": [
+      "CQRS",
+      "Criterion",
+      "事件溯源",
+      "容错",
+      "搜索",
+      "进阶指南",
+      "面试"
+    ],
+    "url": "https://movie.douban.com/",
+    "desc": "中文影评社区",
+    "pinned": false,
+    "weight": 6,
+    "color": "#ECFDF5"
+  },
+  {
+    "id": "zh-083",
+    "title": "Rotten Tomatoes",
+    "dir": "音视频与流媒体",
+    "tags": [
+      "FFmpeg",
+      "HLS",
+      "Last.fm",
+      "MongoDB",
+      "TypeScript",
+      "下载",
+      "点播"
+    ],
+    "url": "https://www.rottentomatoes.com",
+    "desc": "媒体评分",
+    "pinned": false,
+    "weight": 0,
+    "color": "#F5F3FF"
+  },
+  {
+    "id": "zh-084",
+    "title": "Metacritic",
+    "dir": "架构与设计",
+    "tags": [
+      "HLS",
+      "JavaScript",
+      "事件溯源",
+      "可用性",
+      "文档",
+      "设计模式",
+      "钢琴"
+    ],
+    "url": "https://www.metacritic.com",
+    "desc": "评分聚合",
+    "pinned": true,
+    "weight": 14,
+    "color": "#FEF3C7"
+  },
+  {
+    "id": "zh-085",
+    "title": "MUBI",
+    "dir": "云厂商与平台",
+    "tags": [
+      "AWS",
+      "翻译",
+      "腾讯云",
+      "调色",
+      "阿里云"
+    ],
+    "url": "https://mubi.com",
+    "desc": "院线佳片流媒体",
+    "pinned": false,
+    "weight": 9,
+    "color": "#F0F9FF"
+  },
+  {
+    "id": "zh-086",
+    "title": "Criterion",
+    "dir": "学习与社区",
+    "tags": [
+      "Bandcamp",
+      "DASH",
+      "Netlify",
+      "数据库",
+      "社区",
+      "路线图",
+      "速查表"
+    ],
+    "url": "https://www.criterion.com/",
+    "desc": "标准收藏",
+    "pinned": false,
+    "weight": 1,
+    "color": "#FDF2F8"
+  },
+  {
+    "id": "zh-087",
+    "title": "BFI",
+    "dir": "架构与设计",
+    "tags": [
+      "可用性",
+      "布鲁克纳",
+      "架构设计",
+      "流媒体",
+      "设计模式"
+    ],
+    "url": "https://www.bfi.org.uk/",
+    "desc": "英国电影协会",
+    "pinned": false,
+    "weight": 14,
+    "color": "#F5F3FF"
+  },
+  {
+    "id": "zh-088",
+    "title": "Sight & Sound",
+    "dir": "工具与下载",
+    "tags": [
+      "下载",
+      "同步",
+      "字幕下载",
+      "网盘",
+      "翻译",
+      "路线图"
+    ],
+    "url": "https://www.bfi.org.uk/sight-and-sound",
+    "desc": "权威影刊",
+    "pinned": false,
+    "weight": 19,
+    "color": "#FFF7ED"
+  },
+  {
+    "id": "zh-089",
+    "title": "Every Frame a Painting",
+    "dir": "安全与隐私",
+    "tags": [
+      "Cloudflare",
+      "SAST",
+      "SSO",
+      "Terraform",
+      "密钥管理",
+      "熔断",
+      "零信任"
+    ],
+    "url": "https://www.youtube.com/@EveryFrameaPainting",
+    "desc": "电影镜头语言视频",
+    "pinned": false,
+    "weight": 19,
+    "color": "#FDF2F8"
+  },
+  {
+    "id": "zh-090",
+    "title": "StudioBinder Blog",
+    "dir": "架构与设计",
+    "tags": [
+      "CQRS",
+      "事件溯源",
+      "可用性",
+      "录屏",
+      "性能优化",
+      "降噪"
+    ],
+    "url": "https://www.studiobinder.com/blog/",
+    "desc": "剧作/分镜/调度",
+    "pinned": false,
+    "weight": 0,
+    "color": "#F0F9FF"
+  },
+  {
+    "id": "zh-091",
+    "title": "No Film School",
+    "dir": "搜索与向量",
+    "tags": [
+      "CSRF",
+      "Elasticsearch",
+      "JWT",
+      "OpenSearch",
+      "Pinecone"
+    ],
+    "url": "https://nofilmschool.com/",
+    "desc": "电影制作人社区",
+    "pinned": false,
+    "weight": 0,
+    "color": "#FFF7ED"
+  },
+  {
+    "id": "zh-092",
+    "title": "FilmGrab",
+    "dir": "架构与设计",
+    "tags": [
+      "Sentry",
+      "Shell",
+      "事件溯源",
+      "前端放大",
+      "可用性",
+      "容错",
+      "翻译"
+    ],
+    "url": "https://film-grab.com/",
+    "desc": "电影分镜截图",
+    "pinned": false,
+    "weight": 1,
+    "color": "#F5F3FF"
+  },
+  {
+    "id": "zh-093",
+    "title": "FFmpeg",
+    "dir": "数据库与存储",
+    "tags": [
+      "MySQL",
+      "PostgreSQL",
+      "Python",
+      "Shell",
+      "大师课",
+      "数据库"
+    ],
+    "url": "https://ffmpeg.org",
+    "desc": "音视频处理",
+    "pinned": false,
+    "weight": 14,
+    "color": "#EFF6FF"
+  },
+  {
+    "id": "zh-094",
+    "title": "OBS Studio",
+    "dir": "后端与微服务",
+    "tags": [
+      "PDF工具",
+      "分布式",
+      "剧情片",
+      "微服务",
+      "熔断"
+    ],
+    "url": "https://obsproject.com/",
+    "desc": "直播录制",
+    "pinned": false,
+    "weight": 19,
+    "color": ""
+  },
+  {
+    "id": "zh-095",
+    "title": "YouTube Creators",
+    "dir": "安全与隐私",
+    "tags": [
+      "Dolby Vision",
+      "SSO",
+      "WAF",
+      "密钥管理",
+      "网盘",
+      "贝多芬"
+    ],
+    "url": "https://www.youtube.com/creators",
+    "desc": "创作者资源",
+    "pinned": false,
+    "weight": 20,
+    "color": ""
+  },
+  {
+    "id": "zh-096",
+    "title": "Dolby",
+    "dir": "后端与微服务",
+    "tags": [
+      "BFI",
+      "DDD",
+      "JavaScript",
+      "MySQL",
+      "分布式",
+      "后端"
+    ],
+    "url": "https://www.dolby.com/",
+    "desc": "杜比技术",
+    "pinned": false,
+    "weight": 7,
+    "color": ""
+  },
+  {
+    "id": "zh-097",
+    "title": "DaVinci Resolve",
+    "dir": "编程语言与框架",
+    "tags": [
+      "Flink",
+      "Hive",
+      "Java",
+      "Node.js",
+      "SpringBoot"
+    ],
+    "url": "https://www.blackmagicdesign.com/products/davinciresolve",
+    "desc": "调色剪辑",
+    "pinned": false,
+    "weight": 5,
+    "color": "#FEF3C7"
+  },
+  {
+    "id": "zh-098",
+    "title": "7-Zip",
+    "dir": "搜索与向量",
+    "tags": [
+      "OpenSearch",
+      "SpringBoot",
+      "Weaviate",
+      "古典音乐",
+      "向量数据库",
+      "边缘计算"
+    ],
+    "url": "https://www.7-zip.org/",
+    "desc": "压缩/解压",
+    "pinned": false,
+    "weight": 3,
+    "color": "#ECFDF5"
+  },
+  {
+    "id": "zh-099",
+    "title": "PeaZip",
+    "dir": "架构与设计",
+    "tags": [
+      "AWS",
+      "OAuth2",
+      "一致性",
+      "事件溯源",
+      "大师课",
+      "架构设计",
+      "消息队列"
+    ],
+    "url": "https://peazip.github.io/",
+    "desc": "开源压缩工具",
+    "pinned": false,
+    "weight": 11,
+    "color": "#FDF2F8"
+  },
+  {
+    "id": "zh-100",
+    "title": "Everything 搜索",
+    "dir": "音视频与流媒体",
+    "tags": [
+      "BFI",
+      "FFmpeg",
+      "Milvus",
+      "RTMP",
+      "播客",
+      "系统设计"
+    ],
+    "url": "https://www.voidtools.com/zh-cn/",
+    "desc": "本地文件搜索",
+    "pinned": false,
+    "weight": 14,
+    "color": "#F0F9FF"
+  },
+  {
+    "id": "zh-101",
+    "title": "IrfanView",
+    "dir": "搜索与向量",
+    "tags": [
+      "DuckDB",
+      "Elasticsearch",
+      "Weaviate",
+      "博客文章",
+      "相似度检索"
+    ],
+    "url": "https://www.irfanview.com/",
+    "desc": "图片批处理",
+    "pinned": false,
+    "weight": 10,
+    "color": "#F0F9FF"
+  },
+  {
+    "id": "zh-102",
+    "title": "ShareX",
+    "dir": "数据库与存储",
+    "tags": [
+      "DuckDB",
+      "Redis",
+      "数据库",
+      "熔断",
+      "网盘"
+    ],
+    "url": "https://getsharex.com/",
+    "desc": "截图/录屏",
+    "pinned": false,
+    "weight": 16,
+    "color": "#EFF6FF"
+  },
+  {
+    "id": "zh-103",
+    "title": "Subtitle Edit",
+    "dir": "编程语言与框架",
+    "tags": [
+      "Django",
+      "Java",
+      "Rust",
+      "古典音乐",
+      "批量重命名",
+      "短片"
+    ],
+    "url": "https://www.nikse.dk/SubtitleEdit",
+    "desc": "字幕编辑",
+    "pinned": false,
+    "weight": 20,
+    "color": "#FFF7ED"
+  },
+  {
+    "id": "zh-104",
+    "title": "Aegisub",
+    "dir": "数据与大数据",
+    "tags": [
+      "Hive",
+      "Iceberg",
+      "Kafka",
+      "dbt",
+      "缓存",
+      "英文"
+    ],
+    "url": "http://www.aegisub.org/",
+    "desc": "字幕制作",
+    "pinned": false,
+    "weight": 8,
+    "color": "#ECFDF5"
+  },
+  {
+    "id": "zh-105",
+    "title": "HandBrake",
+    "dir": "安全与隐私",
+    "tags": [
+      "GCP",
+      "OIDC",
+      "加密",
+      "安全",
+      "室内乐"
+    ],
+    "url": "https://handbrake.fr/",
+    "desc": "视频转码",
+    "pinned": false,
+    "weight": 7,
+    "color": "#FEF3C7"
+  },
+  {
+    "id": "zh-106",
+    "title": "Calibre",
+    "dir": "数据库与存储",
+    "tags": [
+      "Atmos",
+      "MongoDB",
+      "Redis",
+      "教程入门",
+      "数据库",
+      "莫扎特",
+      "萨蒂"
+    ],
+    "url": "https://calibre-ebook.com/",
+    "desc": "电子书管理",
+    "pinned": false,
+    "weight": 17,
+    "color": "#F5F3FF"
+  },
+  {
+    "id": "zh-107",
+    "title": "rclone",
+    "dir": "云厂商与平台",
+    "tags": [
+      "GCP",
+      "分镜",
+      "密钥管理",
+      "腾讯云",
+      "阿里云"
+    ],
+    "url": "https://rclone.org/",
+    "desc": "网盘同步",
+    "pinned": false,
+    "weight": 13,
+    "color": "#FFF7ED"
+  },
+  {
+    "id": "zh-108",
+    "title": "Roon 文档1",
+    "dir": "学习与社区",
+    "tags": [
+      "Milvus",
+      "搜索",
+      "文档",
+      "社区",
+      "速查表"
+    ],
+    "url": "https://roonlabs.com/docs",
+    "desc": "本地音频管理 · 官方文档",
+    "pinned": false,
+    "weight": 19,
+    "color": "#FDF2F8"
+  },
+  {
+    "id": "zh-109",
+    "title": "GraphQL 文档2",
+    "dir": "搜索与向量",
+    "tags": [
+      "Elasticsearch",
+      "OpenSearch",
+      "PDF工具",
+      "相似度检索",
+      "降噪"
+    ],
+    "url": "https://graphql.org/docs",
+    "desc": "查询语言 API · 官方文档",
+    "pinned": false,
+    "weight": 14,
+    "color": "#FDF2F8"
+  },
+  {
+    "id": "zh-110",
+    "title": "Rotten Tomatoes 文档3",
+    "dir": "搜索与向量",
+    "tags": [
+      "Elasticsearch",
+      "GitOps",
+      "Weaviate",
+      "向量数据库",
+      "流媒体"
+    ],
+    "url": "https://www.rottentomatoes.com/docs",
+    "desc": "媒体评分 · 官方文档",
+    "pinned": false,
+    "weight": 18,
+    "color": "#FEF3C7"
+  },
+  {
+    "id": "zh-111",
+    "title": "Roon 文档1 文档4",
+    "dir": "可观测性与监控",
+    "tags": [
+      "ANN",
+      "OpenTelemetry",
+      "Prometheus",
+      "Sentry",
+      "微服务",
+      "摄影"
+    ],
+    "url": "https://roonlabs.com/docs/docs",
+    "desc": "本地音频管理 · 官方文档 · 官方文档",
+    "pinned": false,
+    "weight": 13,
+    "color": "#F0F9FF"
+  },
+  {
+    "id": "zh-112",
+    "title": "curl 文档5",
+    "dir": "古典音乐｜作曲家",
+    "tags": [
+      "后端",
+      "奏鸣曲",
+      "室内乐",
+      "巴赫",
+      "空间音效",
+      "设计模式"
+    ],
+    "url": "https://curl.se/docs",
+    "desc": "命令行 HTTP · 官方文档",
+    "pinned": false,
+    "weight": 10,
+    "color": "#F5F3FF"
+  },
+  {
+    "id": "zh-113",
+    "title": "Apache Kafka 文档6",
+    "dir": "搜索与向量",
+    "tags": [
+      "Bandcamp",
+      "Milvus",
+      "Pinecone",
+      "SRT",
+      "向量数据库",
+      "配乐"
+    ],
+    "url": "https://kafka.apache.org/docs",
+    "desc": "消息流平台 · 官方文档",
+    "pinned": false,
+    "weight": 9,
+    "color": "#FEF3C7"
+  },
+  {
+    "id": "zh-114",
+    "title": "QQ 音乐 文档7",
+    "dir": "效率与知识库",
+    "tags": [
+      "vim",
+      "任务管理",
+      "效率工具",
+      "笔记",
+      "英文"
+    ],
+    "url": "https://y.qq.com/docs",
+    "desc": "国内音乐 · 官方文档",
+    "pinned": false,
+    "weight": 9,
+    "color": "#F0F9FF"
+  },
+  {
+    "id": "zh-115",
+    "title": "Spring 文档8",
+    "dir": "云原生与容器",
+    "tags": [
+      "Apple Music",
+      "Docker",
+      "Kubernetes",
+      "OpenTelemetry",
+      "Service Mesh",
+      "博客文章"
+    ],
+    "url": "https://spring.io/docs",
+    "desc": "Java 企业级生态 · 官方文档",
+    "pinned": false,
+    "weight": 5,
+    "color": "#FEF3C7"
+  },
+  {
+    "id": "zh-116",
+    "title": "阿里云 文档9",
+    "dir": "编程语言与框架",
+    "tags": [
+      "Flask",
+      "Gin",
+      "Node.js",
+      "Protobuf",
+      "YouTube 影评",
+      "官方文档"
+    ],
+    "url": "https://www.aliyun.com/docs",
+    "desc": "云平台 · 官方文档",
+    "pinned": false,
+    "weight": 15,
+    "color": "#ECFDF5"
+  },
+  {
+    "id": "zh-117",
+    "title": "Cloudflare 文档10",
+    "dir": "云原生与容器",
+    "tags": [
+      "Istio",
+      "Service Mesh",
+      "容器",
+      "设计模式",
+      "降级",
+      "院线"
+    ],
+    "url": "https://www.cloudflare.com/docs",
+    "desc": "边缘与安全 · 官方文档",
+    "pinned": false,
+    "weight": 6,
+    "color": "#FFF7ED"
+  },
+  {
+    "id": "zh-118",
+    "title": "Foobar2000 文档11",
+    "dir": "数据与大数据",
+    "tags": [
+      "BI",
+      "Delta Lake",
+      "Hadoop",
+      "Qobuz",
+      "架构设计",
+      "缓存穿透"
+    ],
+    "url": "https://www.foobar2000.org/docs",
+    "desc": "本地播放 · 官方文档",
+    "pinned": false,
+    "weight": 18,
+    "color": "#ECFDF5"
+  },
+  {
+    "id": "zh-119",
+    "title": "Helm 文档12",
+    "dir": "安全与隐私",
+    "tags": [
+      "Flink",
+      "OIDC",
+      "原声",
+      "安全",
+      "短片",
+      "笔记",
+      "零信任"
+    ],
+    "url": "https://helm.sh/docs",
+    "desc": "K8s 包管理 · 官方文档",
+    "pinned": false,
+    "weight": 12,
+    "color": "#ECFDF5"
+  },
+  {
+    "id": "zh-120",
+    "title": "Tokio 文档13",
+    "dir": "后端与微服务",
+    "tags": [
+      "Grafana",
+      "微服务",
+      "性能优化",
+      "流行",
+      "熔断",
+      "高并发"
+    ],
+    "url": "https://tokio.rs/docs",
+    "desc": "Rust 异步运行时 · 官方文档",
+    "pinned": false,
+    "weight": 12,
+    "color": "#FDF2F8"
+  },
+  {
+    "id": "zh-121",
+    "title": "Cloudflare 文档14",
+    "dir": "可观测性与监控",
+    "tags": [
+      "Fiber",
+      "OpenTelemetry",
+      "Prometheus",
+      "剧情片",
+      "指标",
+      "文档",
+      "题库"
+    ],
+    "url": "https://www.cloudflare.com/docs",
+    "desc": "边缘与安全 · 官方文档",
+    "pinned": false,
+    "weight": 6,
+    "color": "#ECFDF5"
+  },
+  {
+    "id": "zh-122",
+    "title": "MDN 文档15",
+    "dir": "可观测性与监控",
+    "tags": [
+      "FastAPI",
+      "Grafana",
+      "Sentry",
+      "布鲁克纳",
+      "链路追踪"
+    ],
+    "url": "https://developer.mozilla.org/docs",
+    "desc": "Web 文档 · 官方文档",
+    "pinned": false,
+    "weight": 6,
+    "color": ""
+  },
+  {
+    "id": "zh-123",
+    "title": "PostgreSQL 文档16",
+    "dir": "数据与大数据",
+    "tags": [
+      "DASH",
+      "HDR",
+      "Hadoop",
+      "Iceberg",
+      "Spark",
+      "镜头语言"
+    ],
+    "url": "https://www.postgresql.org/docs",
+    "desc": "开源关系数据库 · 官方文档",
+    "pinned": false,
+    "weight": 18,
+    "color": ""
+  },
+  {
+    "id": "zh-124",
+    "title": "Go 文档17",
+    "dir": "学习与社区",
+    "tags": [
+      "指标",
+      "教程",
+      "科幻片",
+      "精选",
+      "论文",
+      "配乐"
+    ],
+    "url": "https://go.dev/docs",
+    "desc": "云原生友好语言 · 官方文档",
+    "pinned": false,
+    "weight": 7,
+    "color": "#FDF2F8"
+  },
+  {
+    "id": "zh-125",
+    "title": "MongoDB 文档18",
+    "dir": "数据库与存储",
+    "tags": [
+      "HDR",
+      "OAuth2",
+      "OST",
+      "Redis",
+      "数据库",
+      "时序数据库"
+    ],
+    "url": "https://www.mongodb.com/docs",
+    "desc": "文档数据库 · 官方文档",
+    "pinned": false,
+    "weight": 9,
+    "color": ""
+  },
+  {
+    "id": "zh-126",
+    "title": "PeaZip 文档19",
+    "dir": "音视频与流媒体",
+    "tags": [
+      "GraphQL",
+      "博客文章",
+      "字幕",
+      "播客",
+      "爵士",
+      "现场演出",
+      "直播"
+    ],
+    "url": "https://peazip.github.io/docs",
+    "desc": "开源压缩工具 · 官方文档",
+    "pinned": false,
+    "weight": 14,
+    "color": "#F5F3FF"
+  },
+  {
+    "id": "zh-127",
+    "title": "dbt 文档20",
+    "dir": "编程语言与框架",
+    "tags": [
+      "Go",
+      "Milvus",
+      "Node.js",
+      "Python",
+      "德彪西",
+      "舒曼"
+    ],
+    "url": "https://www.getdbt.com/docs",
+    "desc": "数据建模 · 官方文档",
+    "pinned": false,
+    "weight": 9,
+    "color": "#FDF2F8"
+  },
+  {
+    "id": "zh-128",
+    "title": "PeaZip 文档19 文档21",
+    "dir": "安全与隐私",
+    "tags": [
+      "Deno",
+      "OAuth2",
+      "OIDC",
+      "SSO",
+      "加密",
+      "零信任"
+    ],
+    "url": "https://peazip.github.io/docs/docs",
+    "desc": "开源压缩工具 · 官方文档 · 官方文档",
+    "pinned": false,
+    "weight": 11,
+    "color": "#FDF2F8"
+  },
+  {
+    "id": "zh-129",
+    "title": "DaVinci Resolve 文档22",
+    "dir": "算法与面试",
+    "tags": [
+      "Shell",
+      "任务管理",
+      "刷题",
+      "教程",
+      "系统设计",
+      "面试"
+    ],
+    "url": "https://www.blackmagicdesign.com/products/davinciresolve/docs",
+    "desc": "调色剪辑 · 官方文档",
+    "pinned": false,
+    "weight": 8,
+    "color": "#FFF7ED"
+  },
+  {
+    "id": "zh-130",
+    "title": "Airflow 文档23",
+    "dir": "数据与大数据",
+    "tags": [
+      "GCP",
+      "Hadoop",
+      "Helm",
+      "Spark",
+      "数据仓库"
+    ],
+    "url": "https://airflow.apache.org/docs",
+    "desc": "工作流编排 · 官方文档",
+    "pinned": false,
+    "weight": 2,
+    "color": "#F5F3FF"
+  },
+  {
+    "id": "zh-131",
+    "title": "Calibre 文档24",
+    "dir": "编程语言与框架",
+    "tags": [
+      "Atmos",
+      "Gin",
+      "Java",
+      "RTMP",
+      "SpringBoot",
+      "容错"
+    ],
+    "url": "https://calibre-ebook.com/docs",
+    "desc": "电子书管理 · 官方文档",
+    "pinned": false,
+    "weight": 2,
+    "color": "#FDF2F8"
+  },
+  {
+    "id": "zh-132",
+    "title": "PostgreSQL 文档25",
+    "dir": "编程语言与框架",
+    "tags": [
+      "FastAPI",
+      "Go",
+      "Java",
+      "Tempo",
+      "基础设施即代码"
+    ],
+    "url": "https://www.postgresql.org/docs",
+    "desc": "开源关系数据库 · 官方文档",
+    "pinned": false,
+    "weight": 3,
+    "color": "#EFF6FF"
+  },
+  {
+    "id": "zh-133",
+    "title": "Rust 文档26",
+    "dir": "接口与协议",
+    "tags": [
+      "GraphQL",
+      "OpenAPI",
+      "PostgreSQL",
+      "RPC",
+      "媒体库",
+      "字幕时间轴",
+      "马勒"
+    ],
+    "url": "https://www.rust-lang.org/docs",
+    "desc": "安全高性能语言 · 官方文档",
+    "pinned": false,
+    "weight": 0,
+    "color": "#FEF3C7"
+  },
+  {
+    "id": "zh-134",
+    "title": "Calibre 文档24 文档27",
+    "dir": "效率与知识库",
+    "tags": [
+      "效率工具",
+      "知识库",
+      "笔记",
+      "精选",
+      "舒曼"
+    ],
+    "url": "https://calibre-ebook.com/docs/docs",
+    "desc": "电子书管理 · 官方文档 · 官方文档",
+    "pinned": true,
+    "weight": 16,
+    "color": "#FEF3C7"
+  },
+  {
+    "id": "zh-135",
+    "title": "DuckDB 文档28",
+    "dir": "安全与隐私",
+    "tags": [
+      "DDoS",
+      "OIDC",
+      "SSO",
+      "WAF",
+      "韩剧"
+    ],
+    "url": "https://duckdb.org/docs",
+    "desc": "内嵌分析引擎 · 官方文档",
+    "pinned": false,
+    "weight": 15,
+    "color": "#F5F3FF"
+  },
+  {
+    "id": "zh-136",
+    "title": "Vercel 文档29",
+    "dir": "云原生与容器",
+    "tags": [
+      "Ansible",
+      "GitOps",
+      "Helm",
+      "Istio",
+      "事件溯源"
+    ],
+    "url": "https://vercel.com/docs",
+    "desc": "前端云 · 官方文档",
+    "pinned": false,
+    "weight": 6,
+    "color": "#F5F3FF"
+  },
+  {
+    "id": "zh-137",
+    "title": "Cloudflare 文档30",
+    "dir": "工具与下载",
+    "tags": [
+      "PDF工具",
+      "Spotify",
+      "媒体库",
+      "浏览器插件",
+      "解压"
+    ],
+    "url": "https://www.cloudflare.com/docs",
+    "desc": "边缘与安全 · 官方文档",
+    "pinned": false,
+    "weight": 6,
+    "color": "#ECFDF5"
+  },
+  {
+    "id": "zh-138",
+    "title": "Gin 文档31",
+    "dir": "接口与协议",
+    "tags": [
+      "IMDb",
+      "JSON",
+      "PDF工具",
+      "Protobuf",
+      "REST"
+    ],
+    "url": "https://gin-gonic.com/docs",
+    "desc": "Go Web 框架 · 官方文档",
+    "pinned": false,
+    "weight": 7,
+    "color": "#F0F9FF"
+  },
+  {
+    "id": "zh-139",
+    "title": "edX 文档32",
+    "dir": "工具与下载",
+    "tags": [
+      "Atmos",
+      "PDF工具",
+      "剪辑",
+      "压缩",
+      "同步",
+      "时序数据库",
+      "配乐"
+    ],
+    "url": "https://www.edx.org/docs",
+    "desc": "在线课程 · 官方文档",
+    "pinned": false,
+    "weight": 4,
+    "color": "#F0F9FF"
+  },
+  {
+    "id": "zh-140",
+    "title": "ShareX 文档33",
+    "dir": "数据与大数据",
+    "tags": [
+      "Delta Lake",
+      "ETL",
+      "Hudi",
+      "Spark",
+      "影单"
+    ],
+    "url": "https://getsharex.com/docs",
+    "desc": "截图/录屏 · 官方文档",
+    "pinned": false,
+    "weight": 18,
+    "color": "#EFF6FF"
+  }
+]

@@ -1,0 +1,70 @@
+:root { --bd:#e5e7eb; --muted:#6b7280; --accent:#2563eb; --bg:#f8fafc; --card:#fff; }
+* { box-sizing: border-box; }
+body { margin:0; font:14px/1.5 -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Arial; background:var(--bg); color:#111827; }
+
+/* Header + Tabs */
+header { background:#fff; border-bottom:1px solid var(--bd); position:sticky; top:0; z-index:10; }
+.topbar { display:flex; align-items:center; gap:12px; padding:10px 16px; }
+.brand { font-weight:600; }
+.search { flex:1; max-width:520px; border:1px solid var(--bd); border-radius:8px; padding:8px 10px; }
+.tabbar { display:flex; gap:16px; padding:0 16px; overflow:auto; }
+.tabbar::-webkit-scrollbar { display:none; }
+.tab { padding:12px 8px; cursor:pointer; color:#374151; }
+.tab.active { color:#111827; border-bottom:2px solid var(--accent); }
+
+/* Dial grid */
+.grid { padding:20px; display:grid; grid-template-columns: repeat(auto-fill, minmax(260px, 1fr)); gap:18px; }
+.dial { background:var(--card); border:1px solid var(--bd); border-radius:14px; padding:14px; display:flex; flex-direction:column; justify-content:center; align-items:center; gap:14px; transition:.15s; min-height:180px; }
+.dial:hover { box-shadow:0 8px 24px rgba(0,0,0,.08); transform: translateY(-2px); }
+.icon { width:56px; height:56px; border-radius:10px; background:#f3f4f6; display:flex; align-items:center; justify-content:center; overflow:hidden; }
+.icon img { width:100%; height:100%; object-fit:cover; }
+.title { font-weight:600; text-align:center; max-width:220px; white-space:nowrap; overflow:hidden; text-overflow:ellipsis; }
+.url { color:var(--muted); font-size:12px; max-width:220px; white-space:nowrap; overflow:hidden; text-overflow:ellipsis; }
+
+/* Footer tip */
+.footer { color:var(--muted); font-size:12px; padding:10px 16px 20px; } 
+
+/* === 动效增强 === */
+
+/* 平滑过渡 */
+.tab, .dial {
+  transition: all 0.3s ease;
+}
+
+/* Tab hover & active 动画 */
+.tab:hover {
+  color: var(--accent);
+}
+.tab.active {
+  color: #fff;
+  background: var(--accent);
+  border-radius: 8px 8px 0 0;
+  box-shadow: 0 -1px 0 0 var(--accent) inset;
+  transition: all 0.4s ease;
+}
+
+/* 拨号卡片 hover 动效 */
+.dial {
+  opacity: 0;
+  transform: translateY(10px);
+  animation: fadeInUp 0.4s ease forwards;
+}
+.dial:hover {
+  transform: translateY(-4px) scale(1.03);
+  border-color: var(--accent);
+  box-shadow: 0 8px 20px rgba(37, 99, 235, 0.15);
+}
+
+/* 动画关键帧：卡片淡入上移 */
+@keyframes fadeInUp {
+  from { opacity: 0; transform: translateY(10px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+/* 当目录切换时的闪亮渐变（背景轻微变化） */
+body {
+  transition: background 0.5s ease;
+}
+body.dir-transition {
+  background: linear-gradient(180deg, #f0f7ff 0%, #fff 100%);
+}

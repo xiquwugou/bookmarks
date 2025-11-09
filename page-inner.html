@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>目录详情（内页）</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+<header>
+  <strong style="padding-left:16px;">目录详情</strong>
+  <input id="search" type="search" class="search" placeholder="搜索当前目录（⌘/Ctrl + K）" />
+  <div id="activeChips" class="chips" title="当前筛选条件"></div>
+  <div class="toolbar" style="padding-right:16px;">
+    <button id="btnOpenSelected" class="primary" disabled>打开已选(0)</button>
+    <button id="btnOpenAll">打开全部</button>
+    <button id="btnSelectAll">全选</button>
+    <button id="btnInvert">反选</button>
+    <button id="btnCopy">复制链接</button>
+  </div>
+</header>
+
+<div class="layout">
+  <aside>
+    <div class="section-title">目录</div>
+    <div id="dirs" class="list"></div>
+  </aside>
+
+  <main id="content"></main>
+
+  <aside id="tags">
+    <div class="section-title">标签（单选）</div>
+    <div id="taglist" class="list"></div>
+    <div class="footer-note small">点击=AND，Shift=OR，Alt=NOT（单选，点击其他将替换）。Esc 清空。</div>
+  </aside>
+</div>
+
+<script src="page.js"></script>
+</body>
+</html>
